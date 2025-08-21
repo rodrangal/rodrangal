@@ -57,14 +57,11 @@ I’m passionate about transforming raw data into meaningful insights that help 
 
 Here are some of my featured projects:  
 
-### 🔹 [Air Pollution Prediction](https://github.com/rodrangal/air-pollution-prediction)  
+### 🔹 [Air Pollution Prediction](https://github.com/rodrangal/greenearthconnect.git)  
 AI model that predicts **city-level air pollution** by combining meteorological, traffic, and environmental data.  
 
 ### 🔹 [Bank Marketing Campaign Classifier](https://github.com/rodrangal/bank-marketing-classifier)  
-Machine learning pipeline (Random Forest, Hyperparameter Tuning with Hyperopt) to predict **term deposit subscription**.  
-
-### 🔹 [AI-Powered Triage Chatbot](https://github.com/rodrangal/triage-chatbot)  
-Group project: A conversational AI system to **assist Canadian hospitals** in emergency department triage.  
+Machine learning pipeline (Random Forest, Hyperparameter Tuning with Hyperopt) to predict **term deposit subscription**.   
 
 ### 🔹 [Fuzzy HVAC Planner](https://github.com/rodrangal/fuzzy-hvac-planner)  
 Agent-assisted planner with **LLM + Fuzzy Controller** for **smart and safe HVAC scheduling**.  
