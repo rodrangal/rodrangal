@@ -60,8 +60,8 @@ Here are some of my featured projects:
 ### 🔹 [Air Pollution Prediction](https://github.com/rodrangal/greenearthconnect.git)  
 AI model that predicts **city-level air pollution** by combining meteorological, traffic, and environmental data.  
 
-### 🔹 [Bank Marketing Campaign Classifier](https://github.com/rodrangal/bank-marketing-classifier)  
-Machine learning pipeline (Random Forest, Hyperparameter Tuning with Hyperopt) to predict **term deposit subscription**.   
+### 🔹 [Bank Marketing Campaign Classifier](https://github.com/rodrangal/bankruptcy_prediction.git)  
+Machine learning pipeline (XGBoost, Hyperparameter Tuning with Hyperopt) to predict company bankruptcy prediction.   
 
 ### 🔹 [Fuzzy HVAC Planner](https://github.com/rodrangal/fuzzy-hvac-planner)  
 Agent-assisted planner with **LLM + Fuzzy Controller** for **smart and safe HVAC scheduling**.  
